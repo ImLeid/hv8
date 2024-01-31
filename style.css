@@ -1,0 +1,21 @@
+
+  /* Завдання 1 */
+  .text-box h3:first-of-type {
+    color: pink;
+  }
+
+  #greycol {
+    color: grey;
+  }
+
+  .text-box > div p:first-of-type {
+    color: red;
+  }
+
+  .text-box p:nth-of-type(2) {
+    color: green;
+  }
+
+  .text-box .yellow {
+    color: yellow;
+  }
